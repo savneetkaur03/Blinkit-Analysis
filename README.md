@@ -2,10 +2,10 @@
 This repository contains an Exploratory Data Analysis (EDA) project on the Blinkit dataset. The goal is to analyze sales performance, identify key trends, and generate insights using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Project Overview
-Understand sales distribution across products, item types, and locations.
-Identify top-selling products and sales trends by outlet location type.
-Visualize data through bar charts, horizontal charts, and other graphs.
-Provide a foundation for building data-driven business insights.
+- Understand sales distribution across products, item types, and locations.
+- Identify top-selling products and sales trends by outlet location type.
+- Visualize data through bar charts, horizontal charts, and other graphs.
+- Provide a foundation for building data-driven business insights.
 
 ## Tools & Libraries Used
 Python 3
