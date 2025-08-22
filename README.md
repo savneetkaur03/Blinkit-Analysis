@@ -15,10 +15,16 @@ This repository contains an Exploratory Data Analysis (EDA) project on the Blink
 
 ## How to run
 1. Clone this repository
-     ``` git clone https://github.com/your-username/blinkit-sales-analysis.git
-``` cd blinkit-sales-analysis
+     ```
+     git clone https://github.com/your-username/blinkit-sales-analysis.git
+     cd blinkit-sales-analysis
+     ```
 2. Install dependencies
+   ```
       pip install pandas matplotlib seaborn jupyter
-3. Open the notebook
+   ```
+4. Open the notebook
+   ```
      jupyter notebook "Blinkit analysis notebook.ipynb"
+   ```
 
